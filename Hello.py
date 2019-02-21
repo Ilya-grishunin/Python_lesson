@@ -1,1 +1,3 @@
-print("Hello World")
+import year
+
+kol = year.is_year_leap(2000)
